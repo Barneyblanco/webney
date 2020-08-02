@@ -1,0 +1,448 @@
+body{
+    background-color: #fff;
+}
+
+.navbar-brand {
+    width:150px;
+    font-size: 24px;
+  }
+  .navbar-brand img {
+    height: 30px;
+    /* put value of image height as your need */
+    margin-right: 7px;
+  }
+
+ #Register{
+    background-color: #076847 !important;
+    margin-left: 50%;
+    border: #076847;
+}
+
+/**#keyboard{
+    background: url(img/ipad.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}*/
+
+.digital{
+    font-size: 48px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 200px;
+    font-weight: bolder;
+    color: #030101;
+}
+
+.with{
+    font-size: 48px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:#076847;
+    margin-bottom: 40px;
+    font-weight: bolder;
+}
+
+#expertise{
+    margin-top: 5rem;
+}
+
+.etitle{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 7rem;
+}
+
+.eshow{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 3rem;
+}
+
+.ep{
+    font-size: 16px;
+}
+
+#ebtn{
+  background-color: #076847;
+  margin-top: 1rem;
+  margin-left: 170px;
+  border: #076847;
+  margin-bottom: 4rem;
+}
+
+#ehr{
+    background-color: black;
+    border: 1px solid outline;
+}
+
+#eimg{
+    margin-top: 40px;
+    position: absolute;
+}
+
+#coredtitle{
+    margin-bottom: 5rem;
+}
+
+#pen{
+    font-size: 3rem;
+    color: #076847;
+    margin: 0 130px;
+    margin-bottom: 1rem;
+}
+
+#grad{
+    font-size: 3rem;
+    color: #076847;
+    margin: 0 130px;
+    margin-bottom: 1rem;
+}
+
+#user{
+    font-size: 3rem;
+    color: #076847;
+    margin: 0 130px;
+    margin-bottom: 1rem;
+}
+
+#userbutton{
+    border-color: #076847;
+    color: #076847;
+    margin-bottom: 4rem;
+}
+
+#userbutton:hover{
+    background-color: #076847;
+    color: #fff;
+}
+
+.puser{
+    text-align: justify;
+}
+
+#penbutton{
+    border-color: #076847;
+    color: #076847;
+    margin-bottom: 4rem;
+}
+
+#penbutton:hover{
+    background-color: #076847;
+    color: #fff;
+}
+
+.ppen{
+    text-align: justify;
+}
+
+#gradbutton{
+    color: #076847;
+    border-color: #076847;
+    margin-bottom: 4rem;
+}
+
+#gradbutton:hover{
+    background-color: #076847;
+    color: #fff;
+}
+
+.pgrad{
+    text-align: justify;
+}
+
+.huser{
+    color: #076847;
+    margin: 20px 0;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.hpen{
+    color: #076847;
+    margin: 20px 0;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.hgrad{
+    color: #076847;
+    margin: 20px 0;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.hlibrary{
+    color: #000;
+    font-weight: bold;
+    margin: 20px 0;
+}
+
+#librarybutton{
+    background-color:#076847;
+    border: #076847;
+    color: #fff;
+}
+
+
+#quoteimg{
+    background: url(img/greeny.jpg);
+}
+
+.quotetext{
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-style: italic;
+    color: white;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+.quote{
+    font-size: 50px;
+    color: white;
+    font-style: italic;
+    font-weight: bolder;
+    padding-top: 2rem;
+    text-align: right !important;
+}
+
+#next{
+    background-color: #f2f2f2;
+    padding-bottom: 6rem;
+    margin-top: 3rem;
+}
+
+#nboutline{
+    border-color: #076847;
+    color: #076847;
+    margin-right: 2rem;
+}
+
+#nextbutton{
+    background-color: #076847;
+    color: #fff;
+    border: #076847;
+}
+
+.pnext{
+    text-align: justify;
+    padding-bottom: 3rem;
+}
+
+.tnext{
+    font-size: 32px;
+    font-weight: bold;
+    padding: 4rem 0 2rem 0;
+}
+
+#btnnext{
+    margin-bottom: 5rem 0;
+}
+
+
+#footer{
+    background-color: #076847;
+}
+
+#fcontact{
+    border-color:white;
+    color: #fff;
+    margin: 6rem 0 3rem 0;
+}
+
+#instagram{
+    font-size: 30px;
+    color: #fff;
+}
+
+#whatsapp{
+    font-size: 30px;
+    color: #fff;
+    margin-left: 1rem
+}
+
+#twitter{
+    font-size: 30px;
+    color: #fff;
+    margin-left: 1rem
+}
+#phone{
+    font-size: 30px;
+    color: #fff;
+      margin-left: 1rem;
+}
+
+#ftitle{
+    font-size: 20px;
+    margin: 6rem 0 2rem 0;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+
+.ft{
+    font-weight: bolder;
+}
+
+.fcall{
+    font-size: 2ppx;
+    margin: 6rem 0 1rem 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    font-weight: bolder;
+}
+
+.fphonen{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    font-weight: bold;
+}
+
+.fphonen2{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    font-weight: bold;
+}
+
+.femail{
+    font-size: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    font-weight: bold;
+}
+
+#copy{
+    font-size: 16px;
+    color: white;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+@media screen and (max-width:600px){
+
+#herotext{
+    margin-top: 13rem;
+}
+
+.digital{
+    font-size: 30px;
+    text-align: center;
+    padding-top: 1rem;
+}
+
+.with{
+    font-size: 25px;
+    text-align: center;
+}
+
+#gradbutton{
+    text-align: center;
+    color: #076847;
+}
+
+#expertise{
+    margin-top: -2rem;
+}
+
+.etitle{
+    font-size: 20px;
+}
+
+.ep{
+    font-size: 14px;
+}
+
+#icons{
+    margin-top: 22rem;
+}
+
+.quotetext{
+    font-size: 20px;
+}
+
+.puser{
+    font-size: 14px;
+}
+
+#userbutton{
+    margin-bottom: 6rem;
+}
+
+#penbutton{
+    margin-bottom: 6rem;
+}
+
+.ppen{
+    font-size: 14px;
+}
+
+.eshow{
+    font-size: 20px;
+}
+
+#librarycity{
+    text-align: center;
+}
+
+#awoof{
+    text-align: center;
+}
+
+#gadgets{
+    text-align: center;
+}
+
+.hlibrary{
+    font-size: 20px;
+    color: #212529;
+}
+
+.tnext{
+    font-size: 20px;
+    color: #212529;
+}
+
+.pnext{
+    font-size: 14px;
+}
+
+#nextbutton{
+    margin-top: 20px;
+}
+
+#nboutline{
+    margin-left: 26px;
+}
+
+#ftitle{
+    font-size: 17px;
+    text-align: center;
+}
+
+#fnum{
+    font-size: 17px;
+    text-align: center;
+    margin-top: -30px
+}
+
+#femail{
+    font-size: 17px;
+    text-align: center;
+    margin-top: -30px;
+}
+
+#gradbutton1{
+    margin-left: 150px;
+    color: #076847;
+    border-color: #076847;
+}
+
+#register{
+    margin-right: 150px
+}
+
+}
+
+
